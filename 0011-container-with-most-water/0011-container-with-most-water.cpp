@@ -9,7 +9,7 @@ public:
             int A = mini*(j-i);
             F = max(A,F);
             if (height[i]>height[j]) j--;
-            else if (height[i]<=height[j]) i++;
+            else i++;
             
             
         }
