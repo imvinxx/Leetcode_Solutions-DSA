@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0217-contains-duplicate) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -22,6 +23,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
