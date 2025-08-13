@@ -59,6 +59,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0050-powx-n) |
+| [0412-fizz-buzz](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -71,4 +72,12 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1791-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
