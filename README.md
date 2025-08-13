@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1646-kth-missing-positive-number) |
+| [1791-richest-customer-wealth](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1603-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
