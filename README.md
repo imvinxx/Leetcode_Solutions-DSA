@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0217-contains-duplicate) |
+| [1603-running-sum-of-1d-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
