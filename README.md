@@ -59,12 +59,14 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,5 +86,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
