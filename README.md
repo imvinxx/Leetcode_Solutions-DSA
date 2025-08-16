@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0412-fizz-buzz](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
