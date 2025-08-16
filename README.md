@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0485-max-consecutive-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1791-richest-customer-wealth) |
@@ -62,6 +63,7 @@
 | [0050-powx-n](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0412-fizz-buzz) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
