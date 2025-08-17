@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0485-max-consecutive-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -75,6 +76,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
