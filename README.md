@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@
 | [0016-3sum-closest](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
