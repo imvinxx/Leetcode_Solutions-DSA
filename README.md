@@ -79,6 +79,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1448-maximum-69-number) |
+| [3830-find-closest-person](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
