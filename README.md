@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0485-max-consecutive-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1603-running-sum-of-1d-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1791-richest-customer-wealth) |
@@ -77,6 +78,7 @@
 | [0342-power-of-four](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1448-maximum-69-number) |
 | [3830-find-closest-person](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/3830-find-closest-person) |
