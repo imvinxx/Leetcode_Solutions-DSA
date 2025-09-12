@@ -83,6 +83,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1448-maximum-69-number) |
+| [3462-vowels-game-in-a-string](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -103,6 +104,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0412-fizz-buzz) |
 | [2887-sort-vowels-in-a-string](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -112,4 +114,12 @@
 | ------- |
 | [0342-power-of-four](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
