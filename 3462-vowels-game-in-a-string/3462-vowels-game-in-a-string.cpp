@@ -6,9 +6,11 @@ public:
         int count=0;
         for(char c : s){
             if (vow.find(c) != string::npos) count++;
+            if (count>0) {
+                return true;
+            }
         }
-        if (count !=0 ) return true;
-        else return false;
+        return false;
         
     }
 };
