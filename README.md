@@ -39,6 +39,7 @@
 | [0075-sort-colors](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/0412-fizz-buzz) |
 | [2887-sort-vowels-in-a-string](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/imvinxx/Leetcode_Solutions-DSA/tree/master/3462-vowels-game-in-a-string) |
